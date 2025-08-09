@@ -73,7 +73,7 @@ The notebook will:
 
 The project segments the S\&P 500 into 4 distinct investment tribes, each with unique risk-return profiles. This allows investors to build diversified portfolios with a deeper understanding of stock behavior beyond traditional sector classifications.
 
----
+## ![Market map risk and return](Market-map.png)
 
 ## Limitations & Future Work
 
